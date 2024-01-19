@@ -1,6 +1,3 @@
-# local directories
-/book
-
 .DS_Store
 *.swp
 index.data
